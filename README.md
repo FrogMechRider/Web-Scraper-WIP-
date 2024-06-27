@@ -6,7 +6,7 @@ Initially made to scrape articles off cybersecurity blogs or news websites and s
 
 ```
 #The prerequisite libraries
-pip install requests beautifulsoup4 transformers
+pip install torch requests beautifulsoup4 transformers
 ```
 
 ```
